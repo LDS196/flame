@@ -4,7 +4,7 @@
 ![Vue3](https://img.shields.io/badge/-Vue3-61daf8?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![Vuex](https://img.shields.io/badge/-Vuex-pink)
-![Vue-router](https://img.shields.io/badge/-Vue-router-61daf8?logo=react&logoColor=blue)
+![VueRouter](https://img.shields.io/badge/-VueRouter-61daf8?logo=react&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
